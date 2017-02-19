@@ -1,0 +1,74 @@
+body{
+	background-color:#fff;
+}
+div{
+	display: block;
+}
+
+.o-row {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+ .o-col--6, #es .o-col-sm--6 {
+    width: 50%;
+}
+ .o-col--6, #es .o-col-sm--6 {
+    width: 50%;
+}
+.es-login-box__form-wrap {
+    max-width: 360px;
+    min-width: 240px;
+    margin: 16px auto;
+}
+
+
+:hov
+
+.cls
+
+element.style {
+}
+component.css:1281
+.es-login-box__form {
+    padding: 28px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+ .es-login-box__form-title {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+.t-lg-mt--lg {
+    margin-top: 16px!important;
+}
+objects.css:1
+ fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    min-width: 0;
+}
+
+.o-form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.538461538;
+    color: #333;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
